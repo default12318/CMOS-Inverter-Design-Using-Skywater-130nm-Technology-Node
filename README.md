@@ -63,9 +63,11 @@ This project demonstrates the design and analysis of a CMOS inverter using the S
 #### **Attached Images**
 1. **Analog Layout in Magic**:![Screenshot 2025-02-08 203317](https://github.com/user-attachments/assets/8953b3c6-79ca-410c-b602-b2485ce6e756)
 
-2. **Delay Analysis from Layout**:![Layout delay analysis](https://github.com/user-attachments/assets/f2f35d82-6458-4784-9b31-aeee87b2a7b0)
+2. **Analog Layout in Magic Redrraw to BUffer connections** : ![Screenshot 2025-03-12 164453](https://github.com/user-attachments/assets/ddde3fca-28a9-40d5-afc7-dbf77669e02e)
 
-3. **Spice Output**:![Analog layout spice](https://github.com/user-attachments/assets/77c8a1c5-aeb9-4b64-ae74-594e434aff6f)
+3. **Delay Analysis from Layout**:![Layout delay analysis](https://github.com/user-attachments/assets/f2f35d82-6458-4784-9b31-aeee87b2a7b0)
+
+4. **Spice Output**:![Analog layout spice](https://github.com/user-attachments/assets/77c8a1c5-aeb9-4b64-ae74-594e434aff6f)
 
 
 ---
